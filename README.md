@@ -250,4 +250,67 @@ Registro de hora de entrada y salida de cada vehículo.
 Filtrado por puesto y fecha disponible en la interfaz.
 Definition of Done: Historial generado y consultable sin errores.
 
+# Casos de uso
+
+Caso de Uso 1: Registrar entrada de vehículo
+Actor principal: Conductor
+Precondición: Debe haber al menos un puesto disponible.
+Flujo principal:
+- El conductor llega al parqueadero.
+El sistema detecta la entrada del vehículo.
+- El sistema descuenta un puesto disponible en el conteo.
+- El sistema actualiza la pantalla con la nueva disponibilidad.
+Flujo alterno:
+- Si no hay puestos disponibles, el sistema muestra 'Parqueadero lleno' y no descuenta cupos.
+Postcondición: El número de cupos libres disminuye en 1 (si había espacio).
+
+Caso de Uso 2: Registrar salida de vehículo
+Actor principal: Conductor
+Precondición: Debe haber al menos un vehículo dentro.
+Flujo principal:
+- El conductor sale del parqueadero.
+- El sistema detecta la salida.
+- El sistema incrementa en 1 el número de cupos libres.
+- El sistema actualiza la pantalla con la nueva disponibilidad.
+Flujo alterno:
+- Si no había vehículos, no se realiza el incremento.
+Postcondición: El número de cupos libres aumenta en 1 (si había vehículos).
+
+Caso de Uso 3: Consultar disponibilidad
+Actor principal: Conductor
+Precondición: El sistema debe estar encendido.
+Flujo principal:
+- El conductor se acerca a la pantalla del sistema.
+- El sistema muestra la cantidad de puestos libres.
+Flujo alterno:
+- Si el sistema falla, se muestra un mensaje de error.
+Postcondición: El conductor conoce cuántos cupos hay disponibles.
+
+Caso de Uso 4: Mostrar cupos libres
+Actor principal: Sistema
+Precondición: El parqueadero no debe estar lleno.
+Flujo principal:
+- El sistema registra cada entrada o salida de vehículo.
+- El sistema actualiza la pantalla mostrando la cantidad de puestos libres.
+Flujo alterno:
+- Si todos los puestos están ocupados, se activa el caso 'Mostrar parqueadero lleno'.
+Powered by
+CS CamScanner
+Postcondición: La pantalla refleja el número correcto de cupos libres.
+
+Caso de Uso 5: Mostrar parqueadero lleno
+Actor principal: Sistema
+Precondición: Todos los puestos deben estar ocupados.
+Flujo principal:
+- El sistema detecta que el número de puestos libres es cero.
+- El sistema muestra en la pantalla el aviso 'Parqueadero lleno'.
+Flujo alterno:
+Cuando un vehículo salga, se vuelve al caso 'Mostrar cupos libres'.
+Postcondición: El usuario es informado de que no hay cupos.
+
+
+
+
+
+
 
