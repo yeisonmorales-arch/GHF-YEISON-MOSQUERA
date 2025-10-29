@@ -320,6 +320,8 @@ Flujo alterno:
 - Si el reinicio falla, el sistema muestra un mensaje de error.
 Postcondición: El sistema queda restablecido y el conteo reiniciado.
 
+# diagrama de clases
+![Imagen de WhatsApp 2025-10-23 a las 20 58 20_df67ff07](https://github.com/user-attachments/assets/e583d236-991e-4800-85a7-e49d5f860ab5)
 
 
 
