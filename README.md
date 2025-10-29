@@ -308,6 +308,20 @@ Flujo alterno:
 Cuando un vehículo salga, se vuelve al caso 'Mostrar cupos libres'.
 Postcondición: El usuario es informado de que no hay cupos.
 
+Caso de Uso 6: Reiniciar sistema
+Actor principal: Administrador
+Precondición: El sistema debe estar encendido.
+Flujo principal:
+- El administrador selecciona la opción de reinicio.
+- El sistema detiene las operaciones actuales.
+- El sistema inicializa los contadores a cero.
+- El sistema queda listo para registrar nuevas entradas y salidas.
+Flujo alterno:
+- Si el reinicio falla, el sistema muestra un mensaje de error.
+Postcondición: El sistema queda restablecido y el conteo reiniciado.
+
+
+
 
 
 
