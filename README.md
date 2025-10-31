@@ -323,6 +323,12 @@ Postcondición: El sistema queda restablecido y el conteo reiniciado.
 # diagrama de clases
 ![Imagen de WhatsApp 2025-10-23 a las 20 58 20_df67ff07](https://github.com/user-attachments/assets/e583d236-991e-4800-85a7-e49d5f860ab5)
 
+# diagrama de estados
+![Imagen de WhatsApp 2025-10-31 a las 09 37 18_68614ce3](https://github.com/user-attachments/assets/9be8b18b-a56d-42b1-93c5-354a39e987dc)
+
+
+
+
 
 
 
