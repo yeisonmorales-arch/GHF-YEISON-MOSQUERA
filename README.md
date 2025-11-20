@@ -337,7 +337,7 @@ Postcondición: El sistema queda restablecido y el conteo reiniciado.
 
 Que se realizo en en la reunión?
 
-Se reviso el codigo, los componentes fisicos y ña maqueta para realizar el montaje fisico. 
+Se reviso el codigo, los componentes fisicos y la maqueta para realizar el montaje fisico. 
 
 Se hablo y se acordo de que se realizara un cambio en el harware, ya no se impletmentara en el proyecto con Arduino si no que se va a cambiar por el SP32, la programacion ya no va a hacer en Arduinouno sino en Thony (micropython).
 
