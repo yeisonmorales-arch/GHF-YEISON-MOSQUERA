@@ -327,6 +327,11 @@ Postcondición: El sistema queda restablecido y el conteo reiniciado.
 ![Imagen de WhatsApp 2025-10-31 a las 09 37 18_68614ce3](https://github.com/user-attachments/assets/9be8b18b-a56d-42b1-93c5-354a39e987dc)
 
 # reunion por meet (12 de noviembre del 2025) 
+Se acordo la reunion a las 3 pm por medio de la plataforma meet
+Que se realizo?
+
+Se hablo de la organizacion del repositorio de y las tareas asiganadas en Github
+
 ![Imagen de WhatsApp 2025-11-12 a las 14 03 03_aa85c3f6](https://github.com/user-attachments/assets/7c40a5cc-d931-453e-a774-a8a5902f4f78)
 
 ![Imagen de WhatsApp 2025-11-12 a las 14 03 48_29fbd546](https://github.com/user-attachments/assets/8597e62f-4765-40b4-b3f7-e945d7a4da33)
