@@ -332,13 +332,19 @@ Postcondición: El sistema queda restablecido y el conteo reiniciado.
 ![Imagen de WhatsApp 2025-11-12 a las 14 03 48_29fbd546](https://github.com/user-attachments/assets/8597e62f-4765-40b4-b3f7-e945d7a4da33)
 
 # REUNION PRESENCIAL 20/11/2025
--Se reviso el codigo y los componentes fisicos y maqueta. 
 
--Se hablo de que se realizo un cambio en el harware, ya no se realizara con Arduino sino con SP32, la programacion ya no va a hacer en Arduinouno sino en Thony (micropython).
+-Entre los cuatro integrantes se acordo la reunion a las 3:30 en la Universidad del valle sede Zarzal
 
+Que se realizo en en la reunión?
+
+Se reviso el codigo, los componentes fisicos y ña maqueta para realizar el montaje fisico. 
+
+Se hablo y se acordo de que se realizara un cambio en el harware, ya no se impletmentara en el proyecto con Arduino si no que se va a cambiar por el SP32, la programacion ya no va a hacer en Arduinouno sino en Thony (micropython).
 
 ![Imagen de WhatsApp 2025-11-20 a las 16 22 52_d5e2cb8c](https://github.com/user-attachments/assets/c29ae56d-378a-402b-af9f-6d5eef6da401)
+
 ![Imagen de WhatsApp 2025-11-20 a las 16 40 22_ed955daa](https://github.com/user-attachments/assets/7b7e0600-b509-4e06-b92c-4d00d756c053)
+
 ![Imagen de WhatsApp 2025-11-20 a las 16 40 48_28a5ec49](https://github.com/user-attachments/assets/efbadc7a-294e-4dec-83cf-90429455237e)
 
 
