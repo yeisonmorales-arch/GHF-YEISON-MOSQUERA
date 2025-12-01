@@ -352,6 +352,19 @@ Se hablo y se acordo de que se realizara un cambio en el harware, ya no se imple
 
 ![Imagen de WhatsApp 2025-11-20 a las 16 40 48_28a5ec49](https://github.com/user-attachments/assets/efbadc7a-294e-4dec-83cf-90429455237e)
 
+#REUNION PRESENCIAL LABORATORIO 28 DE NOVIEMBRE 2025
+
+Esta reunion fue llevada a cabo en el laboratorio de la universidad en horario de clases 9 a 12 horario diurno.
+
+Que se realizo?
+
+Se juntaron los componentes los componentes y se puso en funcionamiento los sensores y servomotor como practica piloto para resivsar si estaban buenos los componentes 
+
+![Imagen de WhatsApp 2025-11-28 a las 11 51 43_c479748e](https://github.com/user-attachments/assets/da8651ae-3826-4b49-be6a-93db9048e431)
+![Imagen de WhatsApp 2025-11-28 a las 11 51 43_0fda620f](https://github.com/user-attachments/assets/30a8621a-f954-4687-9d09-07b5162477ea)
+![Imagen de WhatsApp 2025-11-28 a las 11 51 44_a6be650e](https://github.com/user-attachments/assets/1564a62d-d026-4b97-bae6-66eda0ef47ba)
+
+
 
 
 
