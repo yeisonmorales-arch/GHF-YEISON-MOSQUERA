@@ -375,6 +375,19 @@ Se realizo la casa del parqueadero en donde irian los componentes para que no se
 ![Imagen de WhatsApp 2025-12-01 a las 11 03 50_b6d7faa7](https://github.com/user-attachments/assets/3b7c8829-8de8-4a9d-a98d-b0c1fc2ecbf9)
 ![Imagen de WhatsApp 2025-12-01 a las 11 29 41_a9ffd7dc](https://github.com/user-attachments/assets/cead40e8-d9f4-4dc8-be08-6a3736bccf43)
 
+# REUNION PRESENCIAL 4/12/2025
+
+Esta reunion se llevo a cabo en el laboratorio 
+
+Que se realizo?
+
+Se llevo a cabo las ultimas modificaciones del proyecto 
+
+![Imagen de WhatsApp 2025-12-04 a las 12 20 59_915b3530](https://github.com/user-attachments/assets/54a457d0-edc9-43ba-8aa6-0201068b06fd)
+
+![Imagen de WhatsApp 2025-12-04 a las 12 20 59_79dfbd3f](https://github.com/user-attachments/assets/60bd13c5-1e84-4a5f-8f2d-4374fd3be2ff)
+
+
 
 
 
